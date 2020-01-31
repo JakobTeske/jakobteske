@@ -1,10 +1,20 @@
 ---
-title: "About me"
-template: "page"
-socialImage: "/media/image-2.jpg"
+template: page
+title: About me
+slug: About
+draft: false
 ---
+Hi i’m Jakob, a Software Engineer currently living in Stuttgart Germany.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I work as a Operations Engineer right now, but worked on Mobile Applications in the past and in my spare time.
+
+When im not working, I’m an avid runner, like American football and traveling.
+
+I’m always excited about tech, digital businesses and am active in both fields, be it as a hobbyist, volunteer or at work.
+
+Things that I‘m proud of:
+
+I volunteer as a coach and mentor for events, where teenagers can bring their own digital idea into reality. Last year I volunteered both at Code+Design Camp and at Hack to the future Hackathon in Schwäbisch Gmünd.
 
 ![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
 
