@@ -14,7 +14,7 @@ I’m always excited about tech, digital businesses and am active in both fields
 
 Things that I‘m proud of:
 
-I volunteer as a coach and mentor for events, where teenagers can bring their own digital idea into reality. Last year I volunteered both at Code+Design Camp and at Hack to the future Hackathon in Schwäbisch Gmünd.
+I volunteer as a coach and mentor for events, where teenagers can bring their own digital idea into reality. Last year I volunteered both at Code+Design Camp and at Hack to the future Hackathon in Schwaebisch Gmuend.
 
 ![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
 
