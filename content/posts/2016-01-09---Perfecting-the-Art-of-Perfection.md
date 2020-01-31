@@ -1,21 +1,33 @@
 ---
-title: Perfecting the Art of Perfection
-date: "2016-09-01T23:46:37.121Z"
-template: "post"
+template: post
+title: Was ist eigentlich Jenkins
+slug: was-ist-eigentlich-jenkins
 draft: false
-slug: "perfecting-the-art-of-perfection"
-category: "Design Inspiration"
+date: 2020-01-31T21:55:00.000Z
+description: >-
+  Jenkins ist eines der meistbenutzten Tool im Operations Bereich, wie kam es
+  dazu?
+category: Programming
 tags:
-  - "Handwriting"
-  - "Learning to write"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
-socialImage: "/media/image-2.jpg"
+  - Programming
+  - Operations
+  - Jenkins
+  - Deutsch
 ---
+Jenkins ist wie deine Tante Erika, die dir seit deinem Auszug, jedes Jahr zu Weihnachten ein Haufen Waschmittel schenkt. Etwas in die Jahre gekommen, ohne Überraschungen aber man weiß was man hat und ist für das praktische Geschenk dankbar.
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+Auch Jenkins ist weder super modern, noch angesagt, aber wie Tante Erika, liefert es zuverlässig was man braucht. Deshalb fällt auch jedesmal bei dem Wort Automatisierung der Name Jenkins. Was sich hinter Jenkins verbirgt und warum es immernoch zu einem der Standard-Tools zählt, klären wir in diesem Artikel.
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+![Photo by Gustas Brazaitis on Unsplash](/media/gustas-brazaitis-xNKy-Cu20d4-unsplash.jpg "Photo by Gustas Brazaitis on Unsplash")
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
+Jenkins ist der Butler für Entwickler und hilft bei der kontinuierlichen Integration, also dem Automatisieren von Tests, Releases und Automatisierung anderer Tasks.
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+Jenkins ist Open Source und deshalb kostenfrei ohne Lizenzgebühren nutzbar. Wer eine Container-Umgebung oder eine virtuelle Maschine besitzt kann Jenkins also günstig betreiben und nutzen. Durch das Open Source Modell können zudem selber Bugs gefixt oder eigene Features entwickelt werden, was in der Realität aber nur von einem Bruchteil der Nutzer, aktiv genutzt wird.
+
+Jenkins wurde 2011 erstmalig veröffentlicht, fand direkt regen Anklang und konnte sich so auf dem Markt etablieren. Durch die breite Nutzerbasis und das Open Source Modell, wird Jenkins stetigt weiterentwickelt und verbessert, die Gefahr mit einem obsoleten System alleine dazustehen, ist also gering. Auch das ist ein wichtiges Kriterium für Benutzer.
+
+Ein weiterer Vorteil von Jenkins ist die Erweiterbarkeit, es gibt für gefühlt jedes Szenario ein Plugin, welches die Implementierung erheblich vereinfacht. So werden alle üblichen SCM und PM Systeme unterstützt.
+
+Jenkins ist also günstig im Betrieb, hat sich in vielen Projekten bewiesen, es existiert eine aktive Community die Tools und Support bereitstellen und alle verbreiteten Sprachen können bedient werden.
+
+Ähnlich wie Tante Erika, ist Jenkins also trotz seines Alters und gewisser Macken noch ganz umgänglich.
