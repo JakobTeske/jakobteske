@@ -1,8 +1,7 @@
 ---
-template: page
-title: About me
-slug: about-me
-draft: false
+template: "page"
+title: "About me"
+slug: "about-me"
 ---
 Hi i’m Jakob, a Software Engineer currently living in Stuttgart Germany.
 
