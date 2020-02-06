@@ -1,7 +1,7 @@
 ---
 template: page
 title: About me
-slug: About-me
+slug: about
 draft: false
 ---
 Hi i’m Jakob, a Software Engineer currently living in Stuttgart Germany.
